@@ -1,4 +1,4 @@
-My configurations files for MAC
+My configurations files for MAC. Of course, don't forget to move those files for your home folder
 
 
 It is required:
