@@ -1,7 +1,6 @@
-My configurations files for MAC. Of course, don't forget to move those files for your home folder
+My configurations files for MAC and Ubuntu. Of course, don't forget to move those files for your home folder or create symlinks to those files
 
-
-It is required:
+For mac, it is required:
 
 - Homebrew: http://brew.sh/
 
@@ -10,3 +9,5 @@ It is required:
 - NPM: https://npmjs.org/
 
 - bashmarks: https://github.com/huyng/bashmarks
+
+For ubuntu, nothing is required to make the scripts work. But you need to install git though

@@ -17,6 +17,6 @@ L_CYAN="\[\033[1;36m\]"
 L_RED="\[\033[1;31m\]"
 L_PURPLE="\[\033[1;35m\]"
 WHITE="\[\033[1;37m\]"
-NO_COLOR="\[\033[0m\]"	
+NO_COLOR="\[\033[0m\]"  
  
 PS1="$L_BLUE\w$L_GREEN\$(parse_git_branch)$NO_COLOR\$ "
