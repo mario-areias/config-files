@@ -10,4 +10,4 @@ For mac, it is required:
 
 - bashmarks: https://github.com/huyng/bashmarks
 
-For ubuntu, nothing is required to make the scripts work. But you need to install git though
+For ubuntu, you need to install only the bashmarks and also git. Apart from that, nothing else is required
