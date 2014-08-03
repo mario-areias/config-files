@@ -21,3 +21,6 @@ NO_COLOR="\[\033[0m\]"
  
 PS1="$L_BLUE\w$L_GREEN\$(parse_git_branch)$NO_COLOR\$ "
 alias open='gnome-open'
+GTK_IM_MODULE=cedilla
+QT_IM_MODULE=cedilla
+source ~/.local/bin/bashmarks.sh
