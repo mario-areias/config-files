@@ -19,7 +19,7 @@ L_PURPLE="\[\033[1;35m\]"
 WHITE="\[\033[1;37m\]"
 NO_COLOR="\[\033[0m\]"  
  
-PS1="$L_BLUE\w$L_GREEN\$(parse_git_branch)$NO_COLOR\$ "
+PS1="$L_RED\w$L_GREEN\$(parse_git_branch)$NO_COLOR\$ "
 alias open='gnome-open'
 GTK_IM_MODULE=cedilla
 QT_IM_MODULE=cedilla
