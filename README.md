@@ -11,3 +11,7 @@ For mac, it is required:
 - bashmarks: https://github.com/huyng/bashmarks
 
 For ubuntu, you need to install only the bashmarks and also git. Apart from that, nothing else is required
+
+
+
+Hello from the dark side. 
